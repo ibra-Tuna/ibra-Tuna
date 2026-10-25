@@ -2,8 +2,6 @@
 
 ![Godot](https://img.shields.io/badge/Godot_4-478cbf?style=flat&logo=godotengine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat&logo=godotengine&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat&logo=qt&logoColor=white)
 ![Pixel Art](https://img.shields.io/badge/Pixel_Art-8b5cf6?style=flat)
 ![Status](https://img.shields.io/badge/status-building_in_private-6e7681?style=flat)
 
