@@ -18,9 +18,6 @@ source.
 **A 2D beat 'em up** — in private development, released as a complete game when
 it's ready.
 
-**Forium** — a browser built in Python with PyQt6. Two files, a working tab
-system, and a long fight with `QUrl`.
-
 ### Open source
 
 **[Godot-Rain-System](https://github.com/ibra-Tuna/Godot-Rain-System)** —
